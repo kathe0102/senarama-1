@@ -1,14 +1,14 @@
-# SENARAMA Proyect
+# SENARAMA Project
 
-Proyect overview *here*
+Project overview *here*
 
-## Description (Proyect description)
+## Description (Project description)
 
-Proyect description *here*
+Project description *here*
 
 ## Proyect setup
 
-Proyect setup steps *here*
+Project setup steps *here*
 
 ## Contributors
 
