@@ -6,7 +6,7 @@ Project overview *here*
 
 Project description *here*
 
-## Proyect setup
+## Project setup
 
 Project setup steps *here*
 
