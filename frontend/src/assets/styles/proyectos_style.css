@@ -1,0 +1,80 @@
+main {
+  margin-top: 9em;
+}
+
+.project-container {
+  z-index: -1;
+}
+
+/* project entries navigation */
+.project-nav {
+  text-align: center;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 10px;
+  display: block;
+}
+
+.project-nav a {
+  padding: 1em;
+  text-decoration: none;
+  color: rgba(30, 30, 30, 1.0);
+  z-index: 40;
+}
+
+.project-nav a:hover {
+  color: rgba(100, 100, 100, 1.0);
+}
+
+/* entries */
+
+/* container */
+.project-entry {
+  padding: 1.5em 0em;
+  margin: 0.5em 0.2em;
+}
+
+/* background */
+.background-dark {
+  background-color: rgba(100, 100, 100, 1.0);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* title at top */
+.entry-title {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.entries-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em 0.5em;
+}
+
+/* video at left */
+.entry-left {
+  margin-right: 4em;
+}
+
+/* images */
+.entry-images img {
+  width: 10.5em;
+  height: 10.5em;
+  margin: 0.1em;
+}
+
+/* videos */
+.entry-video {
+  padding: 0 0.2em;
+}
+
+.entry-video iframe{
+  height: 16em;
+}
+
+/* video at right */
+.entry-right {
+  margin-left: 4em;
+}
