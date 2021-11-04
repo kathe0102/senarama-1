@@ -14,9 +14,9 @@
           </div>
           <!-- images at center of entry -->
           <div class="entry-images entry-center">
-            <img src="../assets/images/17.jpg" class="image-grid">
-            <img src="../assets/images/20.jpg" class="image-grid">
-            <img src="../assets/images/27.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_1.1.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_1.2.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_1.3.jpg" class="image-grid">
           </div>
           <!-- video at right of entry -->
           <div class="entry-video entry-right">
@@ -37,9 +37,9 @@
           </div>
           <!-- images at center of entry -->
           <div class="entry-images entry-center">
-            <img src="../assets/images/7.jpg" class="image-grid">
-            <img src="../assets/images/25.jpg" class="image-grid">
-            <img src="../assets/images/9.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_2.1.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_2.2.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_2.3.jpg" class="image-grid">
           </div>
           <!-- video at right of entry -->
           <div class="entry-video entry-right">
@@ -60,9 +60,9 @@
           </div>
           <!-- images at center of entry -->
           <div class="entry-images entry-center">
-            <img src="../assets/images/6.jpg" class="image-grid">
-            <img src="../assets/images/12.jpg" class="image-grid">
-            <img src="../assets/images/16.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_3.1.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_3.2.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_3.3.jpg" class="image-grid">
           </div>
           <!-- video at right of entry -->
           <div class="entry-video entry-right">
@@ -83,9 +83,9 @@
           </div>
           <!-- images at center of entry -->
           <div class="entry-images entry-center">
-            <img src="../assets/images/2.jpg" class="image-grid">
-            <img src="../assets/images/senaApp.jpg" class="image-grid">
-            <img src="../assets/images/senaPC.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_4.1.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_4.2.jpg" class="image-grid">
+            <img src="../assets/images/projects/entry_4.3.jpg" class="image-grid">
           </div>
           <!-- video at right of entry -->
           <div class="entry-video entry-right">
