@@ -5,7 +5,7 @@
                 <br>
                 <a><h3>DESTACADOS</h3></a>
                 <br>
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/RPHoygVqev0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                        
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/Ik-7cQkvCFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                        
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/7001BUNgGfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/fLsn2CA8mVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
                 <br>
@@ -16,7 +16,7 @@
                 <br>
                 <a><h3>AUDIOVISUALES</h3></a>
                 <br>
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/F36WL1W9o2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/EP5sKuMbio4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/Q1otLLQWDLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/s_YJA9JQ_nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br>
@@ -27,7 +27,7 @@
                 <br>
                 <a><h3>MUSICA</h3></a>
                 <br>
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/h0jZJBQyHNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/dIKJ66glp_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/7001BUNgGfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/njdHE9UeYzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br>
