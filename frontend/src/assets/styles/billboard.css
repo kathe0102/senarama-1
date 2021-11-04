@@ -1,0 +1,46 @@
+main {
+  margin-top: 9em;
+}
+
+.billboard-entry {
+  padding: 0.2em 0;
+  margin: 2em 0.2em;
+}
+
+.border-green {
+  border-top: 1em solid rgb(1, 151, 21);
+}
+
+.border-orange {
+  border-top: 1em solid rgb(243, 90, 19);
+}
+
+.entry-title {
+  font-family: sans-serif;
+  padding: 0.2em 1em;
+  font-size: 1.4em;
+}
+
+.entries-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em;
+}
+
+.entry-left {
+  margin-right: 3em;
+}
+
+.entry-video {
+  padding: 0 0.2em;
+}
+
+.entry-video iframe {
+  height: 25em;
+  width: 25em;
+}
+
+.entry-right {
+  margin-left: 3em;
+}
