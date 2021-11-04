@@ -8,7 +8,33 @@ Project description *here*
 
 ## Project setup
 
-Project setup steps *here*
+### Install
+
+- Frontend
+
+  `npm install`
+
+- Backend
+
+  `npm install`
+
+  `npm install --dev`
+
+### Run
+
+- Frontend
+
+  `npm run serve`
+
+- Backend
+
+  `npm run dev`
+
+### Build
+
+- Frontend
+  
+  `npm run build`
 
 ## Contributors
 
