@@ -7,13 +7,11 @@
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
-
-
+      allowfullscreen>
+    </iframe>
     <div class="sub">
         <iframe height="20"></iframe>
-        <h1>Senarautas serie web</h1>
+        <h2>Senarautas serie web</h2>
         <iframe height="30"></iframe>
     </div>
 
@@ -68,7 +66,7 @@
 
     <div class="sub2">
         <iframe height="20"></iframe>
-        <h1>SENARAUTAS</h1>
+        <h2>Senarautas Destacados</h2>
         <iframe height="30"></iframe>
     </div>
 
@@ -137,10 +135,11 @@ main {
   padding-top: 1rem;
 }
 
- h1{
+ h2{
     font-weight: 800;
     justify-content: center;
     text-align: center;
+    font-family: sans-serif;
 }
 
 .boton {
@@ -185,6 +184,7 @@ iframe {
   width: 100%;
   align-items: center;
 }
+
 .am {
   direction: flex;
   flex-direction: row;
